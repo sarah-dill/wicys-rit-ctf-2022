@@ -1,0 +1,1 @@
+# wicys-rit-ctf-2022
