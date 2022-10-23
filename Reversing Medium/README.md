@@ -1,6 +1,6 @@
 # Grandma's Passwords
 
-## Files: 
+**Files:**
 
 - passwords_encrypted.txt
 - ransom.exe
